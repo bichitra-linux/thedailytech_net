@@ -1,0 +1,8 @@
+{
+  "name": "thedailytech_server",
+  "version": "1.0.0",
+  "description": "thedailytech server side",
+  "main": "index.js",
+  "author": "The NetLabs",
+  "license": "MIT"
+}
